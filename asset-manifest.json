@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/unityFirst/static/css/main.5f361e03.chunk.css",
+    "main.js": "/unityFirst/static/js/main.7802e772.chunk.js",
+    "main.js.map": "/unityFirst/static/js/main.7802e772.chunk.js.map",
+    "runtime-main.js": "/unityFirst/static/js/runtime-main.f39e15e6.js",
+    "runtime-main.js.map": "/unityFirst/static/js/runtime-main.f39e15e6.js.map",
+    "static/js/2.a099d96e.chunk.js": "/unityFirst/static/js/2.a099d96e.chunk.js",
+    "static/js/2.a099d96e.chunk.js.map": "/unityFirst/static/js/2.a099d96e.chunk.js.map",
+    "index.html": "/unityFirst/index.html",
+    "precache-manifest.6647b6adc5e9c5386a2ceb8703b85467.js": "/unityFirst/precache-manifest.6647b6adc5e9c5386a2ceb8703b85467.js",
+    "service-worker.js": "/unityFirst/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/unityFirst/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.a099d96e.chunk.js.LICENSE.txt": "/unityFirst/static/js/2.a099d96e.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/unityFirst/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f39e15e6.js",
+    "static/js/2.a099d96e.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.7802e772.chunk.js"
+  ]
+}
